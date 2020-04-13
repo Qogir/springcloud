@@ -13,4 +13,5 @@ spring:
   application:
     name: product-service
 
-env: local
+env: dev
+branch: master
